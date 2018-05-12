@@ -28,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3796
     wikipedia: http://en.wikipedia.org/wiki/Alice_Muriel_Williamson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39984#Lord-Loveland-Discovers-America
 gutenberg_bookshelf: Bestsellers, American, 1895-1923
 gutenberg_issued: '2012-06-13'
 gutenberg_type: Text
